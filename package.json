@@ -1,0 +1,23 @@
+{
+  "name": "dady-jokes",
+  "version": "1.0.1",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fariaddd/dady-jokes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fariaddd/dady-jokes/issues"
+  },
+  "homepage": "https://github.com/Fariaddd/dady-jokes#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
+}
